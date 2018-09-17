@@ -31,5 +31,9 @@ export default new Router({
       name: 'work',
       component: Work,
     },
+    {
+      path: '*',
+      redirect: '/',
+    },
   ],
 });
