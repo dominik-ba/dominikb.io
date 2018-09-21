@@ -21,7 +21,7 @@ export default class Home extends Vue {}
 <style lang="stylus" scoped>
 figure
   border-radius 5px
-  height 40vh
+  height 39vh
   overflow hidden
 
 img

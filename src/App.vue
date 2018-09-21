@@ -42,13 +42,14 @@ export default class App extends Vue {
 
 html,body
   font-size fontsize
+  height 100%
 
 #app
   align-items center
   display flex
   flex-flow column
   font-family 'Overpass Mono', 'monospace'
-  min-height 100vh
+  min-height 100%
   overflow hidden
   position relative
 
