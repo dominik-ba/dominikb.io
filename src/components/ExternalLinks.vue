@@ -3,7 +3,7 @@
     <a href="mailto:bauernfeind.dominik@gmail.com">
       <Icon src="gmail.svg" alt="Alt text"/>
     </a>
-    <a href="https://github.com/dominik-ba">
+    <a href="https://github.com/dominikb">
       <Icon src="github.svg" alt="Alt text"/>
     </a>
     <a href="https://www.xing.com/profile/Dominik_Bauernfeind2">
