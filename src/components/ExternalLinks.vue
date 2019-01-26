@@ -1,13 +1,16 @@
 <template>
   <section class="third-party-links">
     <a href="mailto:bauernfeind.dominik@gmail.com">
-      <Icon src="gmail.svg" alt="Alt text"/>
+      <Icon src="gmail.svg" alt="Gmail"/>
     </a>
     <a href="https://github.com/dominikb">
-      <Icon src="github.svg" alt="Alt text"/>
+      <Icon src="github.svg" alt="Github"/>
+    </a>
+    <a href="https://twitter.com/dominik_ba">
+      <Icon src="twitter.svg" alt="Twitter"/>
     </a>
     <a href="https://www.xing.com/profile/Dominik_Bauernfeind2">
-      <Icon src="xing.svg" alt="Alt text"/>
+      <Icon src="xing.svg" alt="Xing"/>
     </a>
   </section>
 </template>
