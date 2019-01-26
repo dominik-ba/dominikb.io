@@ -1,6 +1,6 @@
 <template>
   <section>
-    <p>I started out as a professional developer <span class="strike-through">about</span> {{ yearsAsDev}} years ago, after having been a hobbiest long before.</p>
+    <p>I started out as a professional developer <span class="strike-through">about</span> {{ yearsAsDev}} years ago, after having been a hobbyist long before.</p>
     <p>My main proficiency lies with PHP and Laravel, as well as everything related to Javascript</p>
     <p>I love building APIs and services for others to use and really enable their full potential.</p>
   </section>
