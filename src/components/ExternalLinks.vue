@@ -1,15 +1,15 @@
 <template>
   <section class="third-party-links">
-    <a href="mailto:bauernfeind.dominik@gmail.com">
+    <a target="_blank" href="mailto:bauernfeind.dominik@gmail.com">
       <Icon src="gmail.svg" alt="Gmail"/>
     </a>
-    <a href="https://github.com/dominikb">
+    <a target="_blank" href="https://github.com/dominikb">
       <Icon src="github.svg" alt="Github"/>
     </a>
-    <a href="https://twitter.com/dominik_ba">
+    <a target="_blank" href="https://twitter.com/dominik_ba">
       <Icon src="twitter.svg" alt="Twitter"/>
     </a>
-    <a href="https://www.xing.com/profile/Dominik_Bauernfeind2">
+    <a target="_blank" href="https://www.xing.com/profile/Dominik_Bauernfeind2">
       <Icon src="xing.svg" alt="Xing"/>
     </a>
   </section>
